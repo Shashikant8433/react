@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+  border-radius: 0.2rem;
+}
+
+.outputDiv {
+  border: 0.1rem solid black;
+  border-radius: 0.4rem;
+  padding: 2rem;
+  width: 40%;
+  margin: auto;
+  font-weight: bolder;
+}
+
+a {
+  list-style: none;
+  display: inline;
+  margin: 0.8rem;
+  font-size: 3rem;
+  cursor: pointer;
+  text-decoration: none;
+}
